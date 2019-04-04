@@ -1,0 +1,4 @@
+void mian(){
+    int i = 10;
+    i++;
+}
